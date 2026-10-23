@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Quanlisinhvien.BLL/Quanlisinhvien.BLL.csproj" />
+  <Project Path="Quanlisinhvien.DAL/Quanlisinhvien.DAL.csproj" />
+  <Project Path="Quanlisinhvien.GUI/Quanlisinhvien.GUI.csproj" />
+</Solution>
